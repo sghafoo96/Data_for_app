@@ -1,3 +1,4 @@
+// edit this with GCC array data (controllerName, image, msrp, rarity, variation, regions, description)
 {
   "GCCLibrary":
   [
